@@ -19,6 +19,9 @@ This project uses VoltaJS
 6. Execute `npm i`
 7. Execute `npm run dev`
 
+> Don't forget to create a **.env** file with the values of the variables that are in **.env.example**
+
+> Add an **.env** file in **client directory** if you have an API url different from default (localhost:4000)
 
 ## Backend routes
 - <localhost>/ping -  to check database connection
